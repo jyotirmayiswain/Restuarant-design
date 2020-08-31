@@ -1,2 +1,2 @@
-# coursera-test
+# Restuarants design
 coursera test 
